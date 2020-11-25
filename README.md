@@ -14,7 +14,7 @@ This repository contains the KiCad project and other documents created during th
 ## Specifications
 This double onboard computer PC104 module implements [Board Sierra](https://github.com/visionspacetec/VST104-Sierra) in full dual redundancy. The original Sierra module was extended with its own mirrored copy resulting in two independent OBCs. Both of them share almost the same layout. Only small changes in tracing around the main header and flip of debug & program connector were required. Thanks to this approach, no software changes of the two OBCs are necessary, and both OBCs share very similar electrical characteristics. There is no tracing placed in the middle-top part of the board, just under the "VST104 Delta" marking. This provides enough space for the implementation of killing/switching logic between the OBCs.
 
-**For more specifications wisit [Board Sierra repository](https://github.com/visionspacetec/VST104-Sierra).**
+**For more specifications check [Board Sierra repository](https://github.com/visionspacetec/VST104-Sierra).**
 
 <p align="center">
   <br>
