@@ -662,4 +662,8 @@ Wire Notes Line width 10
 	11000 4750 9250 4750
 Text Notes 9250 4725 0    65   ~ 13
 Universal SO-24 footprint\n
+Text Notes 5650 2000 0    197  ~ 39
+LEFT\nOBC
+Text Notes 5550 4050 0    197  ~ 39
+RIGHT\n OBC
 $EndSCHEMATC
