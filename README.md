@@ -30,6 +30,7 @@ Two separate 2x4 female format connectors on both boards sides are used for debu
 <p align="center">
   <br>
   <img src=/documents/deb_prog_pinout.png width=100%/>
+  <br><br>
   <b>Fig 3.</b> Pinout of the debug and program connector for both OBCs.
   <br><br>
 </p>
