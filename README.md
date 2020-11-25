@@ -25,7 +25,7 @@ This double onboard computer PC104 module implements [Board Sierra](https://gith
 </p>
 
 ## Debug & Program connector
-Two separate 2x4 female format connectors on both boards sides are used for debugging and programming. SWI and UART5 interfaces of the boarded STM32 microprocessor are wired to this connector, as shown in figure 4. This interface is fully compatible with STM ST-Link family programmers. 
+Two separate 2x4 female format connectors on both boards sides are used for debugging and programming. SWI and UART5 interfaces of the boarded STM32 microprocessor are wired to this connector, as shown in figure 3. This interface is fully compatible with STM ST-Link family programmers. 
 
 <p align="center">
   <br>
