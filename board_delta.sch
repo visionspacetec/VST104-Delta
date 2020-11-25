@@ -24,7 +24,7 @@ P 2450 5400
 F 0 "H2" H 2500 6700 50  0000 C CNN
 F 1 "Conn_02x26_Odd_Even" H 2500 4000 50  0001 C CNN
 F 2 "VST104_footprints:ESQ-126-39-x-D" H 2450 5400 50  0001 C CNN
-F 3 "~" H 2450 5400 50  0001 C CNN
+F 3 "https://www.mouser.sk/datasheet/2/527/esq_th-1369982.pdf" H 2450 5400 50  0001 C CNN
 	1    2450 5400
 	1    0    0    -1  
 $EndComp
@@ -35,7 +35,7 @@ P 2450 2450
 F 0 "H1" H 2500 3750 50  0000 C CNN
 F 1 "Conn_02x26_Odd_Even" H 2500 1050 50  0001 C CNN
 F 2 "VST104_footprints:ESQ-126-39-x-D" H 2450 2450 50  0001 C CNN
-F 3 "~" H 2450 2450 50  0001 C CNN
+F 3 "https://www.mouser.sk/datasheet/2/527/esq_th-1369982.pdf" H 2450 2450 50  0001 C CNN
 	1    2450 2450
 	1    0    0    -1  
 $EndComp

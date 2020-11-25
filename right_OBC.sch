@@ -4707,7 +4707,7 @@ AR Path="/5F5C4362/5FCE6140" Ref="ESD2"  Part="1"
 AR Path="/5F8745FB/5FCE6140" Ref="ESD2"  Part="1" 
 F 0 "ESD2" H 17000 11650 50  0000 C CNN
 F 1 "SP3012-06" H 17000 10850 50  0000 C CNN
-F 2 "VST104_footprints:µDFN-14_3.5x1.35mm" H 16800 10900 50  0001 C CNN
+F 2 "VST104_footprints:uDFN-14_3.5x1.35mm" H 16800 10900 50  0001 C CNN
 F 3 "https://www.mouser.sk/datasheet/2/240/Littelfuse_TVS_Diode_Array_SP3012_Datasheet.pdf-268239.pdf" H 16800 10900 50  0001 C CNN
 	1    16800 10900
 	1    0    0    -1  
@@ -11398,6 +11398,8 @@ F 3 "~" H 19850 15050 50  0001 C CNN
 	1    19650 15050
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	10900 8000 11050 8000
 Wire Bus Line
 	14250 5400 14250 6450
 Wire Bus Line
@@ -11422,6 +11424,4 @@ Wire Bus Line
 	13100 6450 14250 6450
 Wire Bus Line
 	13100 7400 14250 7400
-Wire Wire Line
-	10900 8000 11050 8000
 $EndSCHEMATC
